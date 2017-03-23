@@ -8,3 +8,13 @@
 
 require_once 'gump.class.php';
 
+class Gump_Form{
+
+
+    public function __construct(array $settings = array() ){
+
+
+    }
+
+
+}
